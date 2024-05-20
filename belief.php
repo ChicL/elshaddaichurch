@@ -80,9 +80,9 @@
     <!-- Hero section -->
     <div class="section-xl bg-image parallax-bg" data-bg-src="assets/images/handz.jpg">
       <div class="bg-dark-06">
-        <div class="container text-center">
+        <div class="container text-end">
           <div class="row">
-            <div class="col-12 col-lg-10 offset-lg-1 col-xl-10 offset-xl-2">
+            <div class="col-12 col-lg-10 ">
               <h1 class="text-normal pacifico-regular">Our Actions and Convictions</h1>
               <p class="font-large font-weight-light">
                 Our actions are rooted in Jesus Christ. Our unwavering
