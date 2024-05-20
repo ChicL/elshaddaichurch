@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <title>About Us - El-Shaddaï Church</title>
+  <?php include('inc/header.php'); ?>
+
+</head>
+
+<body data-preloader="2">
+  <div class="wrapper">
+    <!-- Scroll to Top -->
+    <div class="scrolltotop">
+      <a class="button-circle button-circle-sm button-circle-black" href="#"><i class="ti-arrow-up"></i></a>
+    </div>
+    <!-- end Scroll to Top -->
+    <!-- Header -->
+    <div class="header fixed absolute-light">
+      <div class="container">
+        <div class="logo">
+          <img class="logo-dark" src="assets/images/logo-dark.png" alt="dark-logo" />
+          <img class="logo-light" src="assets/images/logo-light.png" alt="light-logo" />
+        </div>
+        <div class="header-menu-wrapper">
+          <!-- Menu -->
+          <ul class="header-menu">
+            <li class="m-item">
+              <a class="m-link" href="#">Home</a>
+            </li>
+            <li class="m-item">
+              <a class="m-link active" href="about-us">About Us</a>
+            </li>
+            <li class="m-item">
+              <a class="m-link" href="our-goal">Our Goal</a>
+            </li>
+            <li class="m-item">
+              <a class="m-link" href="belief">Belief</a>
+            </li>
+            <li class="m-item">
+              <a class="m-link" href="youth">Youth</a>
+            </li>
+            <li class="m-item">
+              <a class="m-link" href="media">Media</a>
+            </li>
+            <li class="m-item">
+              <a class="m-link" href="donation">Donation</a>
+            </li>
+            <li class="m-item">
+              <a class="m-link" href="contact">Contact</a>
+            </li>
+          </ul>
+          <!-- Extra -->
+          <!-- <div class="header-menu-extra">
+            <ul class="list-inline">
+              <div class="logo">
+                <img class="logo-dark mobilpay" src="assets/images/m-pay.svg" alt="dark-logo" />
+                <img class="logo-light mobilpay" src="assets/images/mpay.svg" alt="light-logo" />
+              </div>
+            </ul>
+          </div> -->
+          <!-- Close Button -->
+          <button class="close-button">
+            <span></span>
+          </button>
+        </div>
+        <!-- end header-menu-wrapper -->
+        <!-- Menu Toggle on Mobile -->
+        <button class="m-toggle">
+          <span></span>
+        </button>
+      </div>
+      <!-- end container -->
+    </div>
+    <!-- end Header -->
+
+    <!-- About section -->
+    <div class="section-lg bg-dark-08 bg-about">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-12 ">
+            <div class="row col-spacing-50 align-items-center">
+              <div class="col-12 col-lg-6 text-lg-right">
+                <h1 class="margin-0 pacifico-regular">
+                  A congregation that holds the belief of Jesus
+                  Christ
+                </h1>
+              </div>
+              <div class="col-12 col-lg-6">
+                <p class="font-large font-weight-medium glassy text-dark">
+                  We are a congregation that holds the belief in the eternal
+                  manifestation of one God in the form of the Father, the Son,
+                  and the Holy Spirit. Our faith encompasses the incarnation
+                  of the Word of God, taking human form as Jesus.<br /><br />
+                  We believe the Holy Bible as the inspired Word of God
+                  without any error.
+                  <span class="button-text-2" id="pet-1-21">II Peter 1:21</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end row -->
+      </div>
+      <!-- end container -->
+    </div>
+    <!-- end About section -->
+
+    <!-- Team section -->
+    <div class="section bg-light">
+      <div class="container">
+        <div class="owl-carousel owl-dots-overlap" data-owl-margin="10" data-owl-xs="1" data-owl-sm="2" data-owl-md="2" data-owl-lg="3" data-owl-xl="3">
+          <div class="team-box">
+            <div class="team-img">
+              <img src="assets/images/luka.jpg" alt="" />
+            </div>
+            <div class="hover-content">
+              <div class="bottom">
+                <h5 class="margin-0">Luka Walumona</h5>
+                <p>Rev. Pastor</p>
+              </div>
+            </div>
+          </div>
+          <div class="team-box">
+            <div class="team-img">
+              <img src="assets/images/prosper.jpg" alt="" />
+            </div>
+            <div class="hover-content">
+              <div class="bottom">
+                <h5 class="margin-0">Prosper Ngama Lukaba</h5>
+                <p>Pastor</p>
+              </div>
+            </div>
+          </div>
+          <div class="team-box">
+            <div class="team-img">
+              <img src="assets/images/dave.jpg" alt="" />
+            </div>
+            <div class="hover-content">
+              <div class="bottom">
+                <h5 class="margin-0">Dave Aidini Mwambalo</h5>
+                <p>Pastor</p>
+              </div>
+            </div>
+          </div>
+          <div class="team-box">
+            <div class="team-img">
+              <img src="assets/images/dieu.jpg" alt="" />
+            </div>
+            <div class="hover-content">
+              <div class="bottom">
+                <h5 class="margin-0">Dieudonne Rusegura</h5>
+                <p>Pastor</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end owl-carousel -->
+      </div>
+      <!-- end container -->
+    </div>
+    <!-- end Team section -->
+    <div class="section">
+      <div class="container">
+        <div class="row align-items-center col-spacing-50">
+          <div class="col-12 col-lg-6">
+            <h2 class="pacifico-regular">Our mission</h2>
+            <p>
+              Our mission and evangelism efforts span across Asia, Australia,
+              and New Zealand. We are committed to establishing social
+              facilities and empowering the saints through Biblical schools,
+              mission schools, training seminars, and character-building
+              initiatives. Additionally, we engage in various social works
+              such as constructing nursery schools, dispensaries, and
+              pharmacies, all while establishing a network for evangelism. We
+              strongly encourage every Christian to learn to share the gospel
+              individually, fostering a peaceful climate. Our focus also
+              extends to providing moral counsel, managing world ecology, and
+              training individuals and families in peace reconciliation and
+              rehabilitation.
+            </p>
+            <a class="button-text-3 margin-top-30" href="#">Need a prayer?</a>
+          </div>
+          <div class="col-12 col-lg-6">
+            <ul class="clients-grid column-3">
+              <li>
+                <a href="#"><img src="assets/images/cross.png" alt="cross" /></a>
+              </li>
+              <li>
+                <a href="#"><img src="assets/images/teach.png" alt="mountain" /></a>
+              </li>
+              <li>
+                <a href="#"><img src="assets/images/bapt.png" alt="baptism" /></a>
+              </li>
+              <li>
+                <a href="#"><img src="assets/images/jesus.png" alt="jesus" /></a>
+              </li>
+              <li>
+                <a href="#"><img src="assets/images/grave.png" alt="grave" /></a>
+              </li>
+              <li>
+                <a href="#"><img src="assets/images/tomb.png" alt="tom" /></a>
+              </li>
+              <li>
+                <a href="#"><img src="assets/images/ark.png" alt="ark" /></a>
+              </li>
+              <li>
+                <a href="#"><img src="assets/images/sky.png" alt="sky" /></a>
+              </li>
+              <li>
+                <a href="#"><img src="assets/images/book.png" alt="book" /></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- end row -->
+      </div>
+      <!-- end container -->
+    </div>
+    <!-- Parallax section -->
+    <div class="section-xl bg-image parallax-bg" data-bg-src="assets/images/pray.jpeg">
+      <div class="bg-dark-07">
+        <div class="container text-center">
+          <h1 class="font-weight-light pacifico-regular" data-sal="fade" data-sal-delay="100">
+            Jesus Christ is coming soon
+          </h1>
+          <div class="margin-top-30" data-sal="fade" data-sal-delay="250">
+            <a class="button-circle button-circle-xl button-circle-white button-circle-animation-drop lightbox-media-link" href="https://www.youtube.com/watch?v=W0koZxBTM-0?autoplay=1"><i class="fas fa-play"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- hej -->
+
+    <!-- hej -->
+    <!-- end Parallax section -->
+
+    <!-- Footer -->
+    <?php include('inc/footer.php'); ?>
+    <!-- end Footer -->
+  </div>
+
+  </div>
+  <!-- end wrapper -->
+
+  <!-- ***** JAVASCRIPTS ***** -->
+  <script src="assets/plugins/jquery.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUma4oJ7_6VbfGNdUYdv6VQ0Ph07Fz0k8"></script>
+  <script src="assets/plugins/plugins.js"></script>
+  <script src="assets/js/functions.js"></script>
+
+  <!-- tippy javascript-->
+
+  <script src="https://unpkg.com/@popperjs/core@2"></script>
+  <script src="https://unpkg.com/tippy.js@6"></script>
+  <script src="assets/js/verse.js"></script>
+</body>
+
+</html>
