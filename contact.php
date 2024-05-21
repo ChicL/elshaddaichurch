@@ -70,8 +70,8 @@
       <section>
         <div class="container">
           <div class="row">
-            <div class="col-12 col-lg-12 offset-lg-1 col-xl-12 offset-xl-4">
-              <a class="button-ct-outline-white-2 button-ct-xl margin-top-40 lightbox-media-link" href="https://www.youtube.com/watch?v=W0koZxBTM-0?autoplay=1">
+            <div class="col-12 col-lg-12  col-xl-12 text-center">
+              <a class=" margin-top-40 lightbox-media-link" href="https://www.youtube.com/watch?v=W0koZxBTM-0?autoplay=1">
                 <span class="button-circle button-circle-xl button-circle-white button-circle-animation-drop lightbox-media-link"><i class="fas fa-play"></i></span>
               </a>
             </div>

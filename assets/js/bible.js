@@ -16,7 +16,7 @@ fetch(bibleApiUrl)
 
     displayVerse('youth', data);
 
-    displayVerse('verse-day', data);
+    // displayVerse('verse-day', data);
   })
   .catch(error => {
     console.error('Error fetching Bible API:', error);

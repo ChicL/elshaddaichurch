@@ -82,7 +82,7 @@
       <div class="bg-dark-06">
         <div class="container text-end">
           <div class="row">
-            <div class="col-12 col-lg-10 ">
+            <div class="col-12 col-lg-7 ">
               <h1 class="text-normal pacifico-regular">Our Actions and Convictions</h1>
               <p class="font-large font-weight-light">
                 Our actions are rooted in Jesus Christ. Our unwavering
