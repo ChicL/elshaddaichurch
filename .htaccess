@@ -5,10 +5,10 @@
 # RewriteCond %{REQUEST_FILENAME}.php -f
 # RewriteRule ^ %{REQUEST_URI}.php [NC,L]
 
-RewriteEngine On 
-RewriteCond %{HTTPS} !=on
-RewriteRule ^/?(.*) https://%{HTTP_HOST}/$1 [R,L]
+# RewriteEngine On 
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^/?(.*) https://%{HTTP_HOST}/$1 [R,L]
 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^(.*)$ $1.php [NC,L] 
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{REQUEST_FILENAME}\.php -f
+# RewriteRule ^(.*)$ $1.php [NC,L] 
