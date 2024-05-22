@@ -160,7 +160,6 @@
     <!-- Foter -->
   </div>
   <!-- end wrapper -->
-
   <!-- ***** JAVASCRIPTS ***** -->
   <script src="assets/plugins/jquery.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBi4SV0ZRVGoIDH2E00YtJ8Gvg67eaPG5A"></script>
