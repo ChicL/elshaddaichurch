@@ -29,7 +29,7 @@
           <!-- Menu -->
           <ul class="header-menu">
             <li class="m-item">
-              <a class="m-link" href="#">Home</a>
+              <a class="m-link" href="/">Home</a>
             </li>
             <li class="m-item">
               <a class="m-link" href="about-us">About Us</a>
@@ -54,15 +54,7 @@
             </li>
           </ul>
           <!-- Extra -->
-          <!-- <div class="header-menu-extra">
-            <ul class="list-inline">
-              <div class="logo">
-                <img class="logo-dark mobilpay" src="assets/images/m-pay.svg" alt="dark-logo" />
-                <img class="logo-light mobilpay" src="assets/images/mpay.svg" alt="light-logo" />
-              </div>
-            </ul>
-          </div> -->
-          <!-- Close Button -->
+
           <button class="close-button">
             <span></span>
           </button>
@@ -235,10 +227,6 @@
       <!-- end container -->
     </div>
     <!-- end Services section -->
-
-    <!-- Clients section -->
-
-    <!-- end Clients section -->
 
     <!-- Footer -->
     <?php include('inc/footer.php'); ?>

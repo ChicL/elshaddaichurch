@@ -29,7 +29,7 @@
           <!-- Menu -->
           <ul class="header-menu">
             <li class="m-item">
-              <a class="m-link" href="#">Home</a>
+              <a class="m-link" href="/">Home</a>
             </li>
             <li class="m-item">
               <a class="m-link" href="about-us">About Us</a>
@@ -54,15 +54,7 @@
             </li>
           </ul>
           <!-- Extra -->
-          <!-- <div class="header-menu-extra">
-            <ul class="list-inline">
-              <div class="logo">
-                <img class="logo-dark mobilpay" src="assets/images/m-pay.svg" alt="dark-logo" />
-                <img class="logo-light mobilpay" src="assets/images/mpay.svg" alt="light-logo" />
-              </div>
-            </ul>
-          </div> -->
-          <!-- Close Button -->
+
           <button class="close-button">
             <span></span>
           </button>
@@ -237,10 +229,6 @@
     </div>
     <!-- end Portfolio section -->
 
-
-
-
-
     <section class="section padding-top-1 bg-light">
       <div class="container">
         <div class="row align-items-center col-spacing-50">
@@ -256,10 +244,7 @@
             </p>
 
             <a class="button-text-1 margin-top-30" href="#" id="cor-9-7">2 Corinthians 9:6-7</a>
-            <!-- <p class="donation">
-              Reg nummer: XXXXX <br />
-              Konto nummer: XXXX
-            </p> -->
+
           </div>
           <div class="col-12 col-lg-6">
             <div>
@@ -271,64 +256,6 @@
       </div>
       <!-- end container -->
     </section>
-
-
-
-
-    <!-- Clients section -->
-    <!-- <div class="section-xl padding-top-0">
-        <div class="container">
-          <div class="margin-bottom-50 text-center">
-            <h6
-              class="font-weight-medium uppercase letter-spacing-2 text-dark-04"
-            >
-              our amazing clients
-            </h6>
-          </div>
-          <div class="row">
-            <div class="col-12 col-lg-10 offset-lg-1">
-              <ul class="clients-grid column-3">
-                <li>
-                  <a href="#"
-                    ><img src="assets/images/cross.png" alt=""
-                  /></a>
-                </li>
-                <li>
-                  <a href="#"
-                    ><img src="assets/images/teach.png" alt=""
-                  /></a>
-                </li>
-                <li>
-                  <a href="#"><img src="assets/images/bapt.png" alt="" /></a>
-                </li>
-                <li>
-                  <a href="#"
-                    ><img src="assets/images/jesus.png" alt=""
-                  /></a>
-                </li>
-                <li>
-                  <a href="#"
-                    ><img src="assets/images/grave.png" alt=""
-                  /></a>
-                </li>
-                <li>
-                  <a href="#"><img src="assets/images/tomb.png" alt="" /></a>
-                </li>
-                <li>
-                  <a href="#"><img src="assets/images/ark.png" alt="" /></a>
-                </li>
-                <li>
-                  <a href="#"><img src="assets/images/sky.png" alt="" /></a>
-                </li>
-                <li>
-                  <a href="#"><img src="assets/images/book.png" alt="" /></a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div> -->
-    <!-- end Clients section -->
 
     <!-- Footer -->
     <?php include('inc/footer.php'); ?>

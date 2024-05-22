@@ -31,7 +31,7 @@
 					<!-- Menu -->
 					<ul class="header-menu">
 						<li class="m-item">
-							<a class="m-link" href="#">Home</a>
+							<a class="m-link" href="/">Home</a>
 						</li>
 						<li class="m-item">
 							<a class="m-link" href="about-us">About Us</a>
@@ -56,16 +56,7 @@
 							<a class="m-link" href="contact">Contact</a>
 						</li>
 					</ul>
-					<!-- Extra -->
-					<!-- <div class="header-menu-extra">
-						<ul class="list-inline">
-							<div class="logo">
-								<img class="logo-dark mobilpay" src="assets/images/m-pay.svg" alt="dark-logo" />
-								<img class="logo-light mobilpay" src="assets/images/mpay.svg" alt="light-logo" />
-							</div>
-						</ul>
-					</div> -->
-					<!-- Close Button -->
+
 					<button class="close-button">
 						<span></span>
 					</button>
@@ -88,9 +79,7 @@
 					<div class="container text-center">
 						<div class="row">
 							<div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
-								<!-- <div class="margin-bottom-20">
-									<span class="font-family-secondary font-weight-medium uppercase letter-spacing-2">Introducing Arty!</span>
-								</div> -->
+
 								<h1 class="display-5 font-weight-medium margin-bottom-20 line-height-140 pacifico-regular">Pray without ceasing... </h1>
 								<div class="margin-top-40">
 									<a class="button button-lg button-radius button-font-1" href="#">1 thessalonians 5:17</a>
@@ -106,9 +95,7 @@
 					<div class="container text-center">
 						<div class="row">
 							<div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
-								<!-- <div class="margin-bottom-20">
-									<span class="font-family-secondary font-weight-medium uppercase letter-spacing-2">Introducing Arty!</span>
-								</div> -->
+
 								<h1 class="display-5 font-weight-medium margin-bottom-20 line-height-140 pacifico-regular">Ask and you shall receive...</h1>
 								<div class="margin-top-40">
 									<a class="button button-lg button-radius button-font-1" href="#">Matthew 7:7</a>
@@ -124,9 +111,7 @@
 					<div class="container text-center">
 						<div class="row">
 							<div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
-								<!-- <div class="margin-bottom-20">
-									<span class="font-family-secondary font-weight-medium uppercase letter-spacing-2">Introducing Arty!</span>
-								</div> -->
+
 								<h1 class="display-5 font-weight-medium margin-bottom-20 line-height-140 pacifico-regular">Make disciples of all nations</h1>
 								<div class="margin-top-40">
 									<a class="button button-lg button-radius button-outline-white button-font-1" href="#">Matthew 28:19</a>
@@ -150,9 +135,7 @@
 						<h6 class="font-small font-weight-medium uppercase letter-spacing-2 text-primary-lighter">Little About</h6>
 						<h2 class="font-weight-normal pacifico-regular">Our Vision</h2>
 						<p>Elshaddaï Church Media offers a range of inspiring videos that uplift and educate. For more detailed information, visit our Facebook page, where we regularly post updates and announcements.<br><br> Follow us on Instagram to see daily snippets of church life and community events. Our YouTube channel features sermons, worship sessions, and special event recordings. Stay connected and spiritually nourished through our diverse media platforms. Join our growing online family and experience the message of hope and faith.</p>
-						<!-- <div class="margin-top-30">
-							<a class="button button-lg button-rounded button-dark" href="#">Read more</a>
-						</div> -->
+
 					</div>
 				</div><!-- end row -->
 			</div><!-- end container -->

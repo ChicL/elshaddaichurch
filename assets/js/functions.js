@@ -989,5 +989,7 @@ window.onload = () => {
   });
 };
 
-// hej
+// Footer & Header
+
+
 

@@ -8,7 +8,6 @@
   <meta name="keywords" content="" />
   <title>About Us - El-Shaddaï Church</title>
   <?php include('inc/header.php'); ?>
-
 </head>
 
 <body data-preloader="2">
@@ -29,7 +28,7 @@
           <!-- Menu -->
           <ul class="header-menu">
             <li class="m-item">
-              <a class="m-link" href="#">Home</a>
+              <a class="m-link" href="/">Home</a>
             </li>
             <li class="m-item">
               <a class="m-link active" href="about-us">About Us</a>
@@ -53,16 +52,6 @@
               <a class="m-link" href="contact">Contact</a>
             </li>
           </ul>
-          <!-- Extra -->
-          <!-- <div class="header-menu-extra">
-            <ul class="list-inline">
-              <div class="logo">
-                <img class="logo-dark mobilpay" src="assets/images/m-pay.svg" alt="dark-logo" />
-                <img class="logo-light mobilpay" src="assets/images/mpay.svg" alt="light-logo" />
-              </div>
-            </ul>
-          </div> -->
-          <!-- Close Button -->
           <button class="close-button">
             <span></span>
           </button>
@@ -233,11 +222,6 @@
         </div>
       </div>
     </div>
-
-    <!-- hej -->
-
-    <!-- hej -->
-    <!-- end Parallax section -->
 
     <!-- Footer -->
     <?php include('inc/footer.php'); ?>

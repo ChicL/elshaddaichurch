@@ -30,7 +30,7 @@
           <!-- Menu -->
           <ul class="header-menu">
             <li class="m-item">
-              <a class="m-link" href="#">Home</a>
+              <a class="m-link" href="/">Home</a>
             </li>
             <li class="m-item">
               <a class="m-link" href="about-us">About Us</a>
