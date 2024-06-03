@@ -75,6 +75,32 @@ elshaVerses('#ekklesia','Ekklesia in Christian theology means both: a particular
 elshaVerses('#psalms-119-9-11','How can a young man keep his way pure? By guarding it according to your word. With my whole heart I seek you; let me not wander from your commandments! I have stored up your word in my heart, that I might not sin against you. - Psalms 119:9-11 ESV');
 
 elshaVerses('#cor-9-7','Let each man do according as he hath purposed in his heart: not grudgingly, or of necessity: for God loveth a cheerful giver. - 2 Corinthians 9:7');
+elshaVerses('#tim-3-16', 'Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory. - 1 Timothy 3:16');
+elshaVerses('#acts-1-8', 'But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth. - Acts 1:8');
+elshaVerses('#mark-16-15-18', 'And he said to them, "Go into all the world and proclaim the gospel to the whole creation. Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover." - Mark 16:15-18');
+elshaVerses('#rom-6-3', 'Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? - Romans 6:3');
+elshaVerses('#gen-2-24', 'Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh. - Genesis 2:24');
+elshaVerses('#matt-5-32', 'But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery, and whoever marries a divorced woman commits adultery. - Matthew 5:32');
+elshaVerses('#mark-10-7-9', 'Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh. So they are no longer two but one flesh. What therefore God has joined together, let not man separate. - Mark 10:7-9');
+elshaVerses('#rom-7-2', 'For a married woman is bound by law to her husband while he lives, but if her husband dies she is released from the law of marriage. - Romans 7:2');
+elshaVerses('#cor-7-10-11', 'To the married I give this charge (not I, but the Lord): the wife should not separate from her husband (but if she does, she should remain unmarried or else be reconciled to her husband), and the husband should not divorce his wife. - 1 Corinthians 7:10-11');
+elshaVerses('#tim-3-12', 'Let deacons each be the husband of one wife, managing their children and their own households well. - 1 Timothy 3:12');
+elshaVerses('#heb-13-4', 'Let marriage be held in honor among all, and let the marriage bed be undefiled, for God will judge the sexually immoral and adulterous. - Hebrews 13:4');
+elshaVerses('#sam-1-24-28', 'And when she had weaned him, she took him up with her, along with a three-year-old bull, an ephah of flour, and a skin of wine, and she brought him to the house of the Lord at Shiloh. And the child was young. Then they slaughtered the bull, and they brought the child to Eli. And she said, “Oh, my lord! As you live, my lord, I am the woman who was standing here in your presence, praying to the Lord. For this child I prayed, and the Lord has granted me my petition that I made to him. Therefore I have lent him to the Lord. As long as he lives, he is lent to the Lord.” And he worshiped the Lord there. - 1 Samuel 1:24-28');
+elshaVerses('#mark-10-13-16', 'And they were bringing children to him that he might touch them, and the disciples rebuked them. But when Jesus saw it, he was indignant and said to them, “Let the children come to me; do not hinder them, for to such belongs the kingdom of God. Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it.” And he took them in his arms and blessed them, laying his hands on them. - Mark 10:13-16');
+elshaVerses('#matt-26-26', 'Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, “Take, eat; this is my body.” - Matthew 26:26');
+
+elshaVerses('#mark-14-22', 'And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.” - Mark 14:22');
+
+elshaVerses('#luke-22-19', 'And he took bread, and when he had given thanks, he broke it and gave it to them, saying, “This is my body, which is given for you. Do this in remembrance of me.” - Luke 22:19');
+
+elshaVerses('#cor-10-16', 'The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ? - 1 Corinthians 10:16');
+
+elshaVerses('#cor-11-23', 'For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, - 1 Corinthians 11:23');
+
+
+
+
 
 // who we are
 const WhoWeare = `We are a congregation that holds the belief in the eternal manifestation of one God in the form of the Father, the Son, and the Holy Spirit. Our faith encompasses the incarnation of the Word of God, taking human form as Jesus.<br><br>
