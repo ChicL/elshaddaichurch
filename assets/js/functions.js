@@ -919,7 +919,7 @@ function getCountdownToFirstFridayAfterFirstSunday() {
   if (daysLeft === 0) {
     return "Today is The Night Prayer @ " + `<span class="dato"> 23 : 00</span>` + ` <i class="icons icon-clock"></i>`;
   } else if (daysLeft === 1) {
-    return "Tomorrow is Night Prayer" + `<span class="dato">Halleluyah ! 🙏</span>` +` <i class="icons icon-heart"></i>`;
+    return "Tomorrow is Night Prayer" + `<span class="dato">Halleluyah ! 🙏</span>`;
   } else if (daysLeft <= 2) {
     return "The next Night Prayer is " + `<span class="dato">${fridayAfterFirstSundayInNextMonth.toLocaleDateString('en-UK', options)}</span>`;
   } else {

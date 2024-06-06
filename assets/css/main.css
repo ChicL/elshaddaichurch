@@ -5638,6 +5638,8 @@ div[class^='bg-white'].fm-wrapper .fm-close span:before, div[class^='bg-white'].
 .header-menu-wrapper {
   display: inline-block;
   font-size: 16px;
+  font-style: italic;
+  font-weight: 600;
 }
 
 .header-menu-wrapper .header-menu {
@@ -8842,14 +8844,14 @@ body.loaded:after {
   background: rgba(20, 22, 24, 0.8);
 }
 .bg-bible{
-  background: url('../images/risen.jpeg');
+  background: url('../images/bible.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center 0px;
 }
 .bg-about{
-  background: url('../images/5099.jpg');
+  background: url('../images/45575.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -8861,7 +8863,7 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 .glassy {
-  background: rgb(215 255 203 / 35%);
+  background: rgb(255 255 255 / 9%);
   border-radius: 10px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(2.6px);
