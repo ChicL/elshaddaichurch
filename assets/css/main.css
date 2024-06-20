@@ -10071,6 +10071,7 @@ div[class^='bg-dark'] div[class^='bg-white'] .stroke-text, div[class^='bg-dark']
   /* box-shadow: 0 3px 6px #ccc; */
   font-weight: bold;
   letter-spacing: 2px;
+  width: fit-content;
 }
 .info2{
   background: #271e7a;

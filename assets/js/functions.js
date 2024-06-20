@@ -933,9 +933,11 @@ function getCountdownToFirstFridayAfterFirstSunday() {
 const result = getCountdownToFirstFridayAfterFirstSunday();
 
 // Update the HTML element with the id "event" with the result
-document.getElementById("event").innerHTML = result;
-
-
+// document.getElementById("event").innerHTML = result;
+const elements = document.getElementsByClassName("event");
+for (let i = 0; i < elements.length; i++) {
+    elements[i].innerHTML = result;
+}
 
 // CARDS STacked
 
