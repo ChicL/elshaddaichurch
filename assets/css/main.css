@@ -29,7 +29,8 @@ html, body {
   padding: 1px 21px;
     background-color: var(--sort);
     border-radius: inherit;
-    margin: 10px;
+    margin: 6px;
+    font-weight: normal;
 }
 ._brd{
   box-shadow: 2px 4px 12px rgba(0,0,0,.08);
@@ -10066,20 +10067,22 @@ div[class^='bg-dark'] div[class^='bg-white'] .stroke-text, div[class^='bg-dark']
 .infor{
   background: #eb6033;
   color: white;
-  padding: 3px 19px;
+  padding: 3px 0 3px 10px;;
   border-radius: 3px;
   /* box-shadow: 0 3px 6px #ccc; */
   font-weight: bold;
-  letter-spacing: 2px;
+  letter-spacing: .5px;
   width: fit-content;
+  font-weight: normal;
 }
 .info2{
   background: #271e7a;
   color: white;
-  padding: 15px 0px;
-  border-radius: 4px;
+  padding: 12px 12px;
+  border-radius: 7px;
   box-shadow: 0 3px 6px #ccc;    
   -webkit-text-stroke-color: #ffffff;
+  width: fit-content;
 }
 .vers-li{
   background: var(--sort);
