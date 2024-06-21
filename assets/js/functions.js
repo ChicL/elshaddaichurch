@@ -992,6 +992,3 @@ window.onload = () => {
 };
 
 // Footer & Header
-
-
-
