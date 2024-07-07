@@ -10067,7 +10067,7 @@ div[class^='bg-dark'] div[class^='bg-white'] .stroke-text, div[class^='bg-dark']
 .infor{
   background: #eb6033;
   color: white;
-  padding: 3px 0 3px 10px;;
+  padding: 3px 8px 3px 10px;
   border-radius: 3px;
   /* box-shadow: 0 3px 6px #ccc; */
   font-weight: bold;
