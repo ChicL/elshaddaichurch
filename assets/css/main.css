@@ -10,7 +10,8 @@ html, body {
   height: 100%;
 }
 :root{
-  --orange:#eb6033;
+  /* --orange:#eb6033; */
+  --orange:#b94c29;
   --sort:#0d0d0e;
   --bisque:#ffe4c4;
   --beige:#f5f5dc;
@@ -26,11 +27,11 @@ html, body {
   background: var(--beige);
 }
 .dato{
-  padding: 1px 21px;
-    background-color: var(--sort);
+  padding: 2px 21px;
+    background-color: var(--orange);
     border-radius: inherit;
     margin: 6px;
-    font-weight: normal;
+    font-weight: 600;
 }
 ._brd{
   box-shadow: 2px 4px 12px rgba(0,0,0,.08);
@@ -10078,8 +10079,9 @@ div[class^='bg-dark'] div[class^='bg-white'] .stroke-text, div[class^='bg-dark']
 .info2{
   background: #271e7a;
   color: white;
-  padding: 12px 12px;
-  border-radius: 7px;
+  /* padding: 12px 12px; */
+  padding: 12px 12px 12px 24px;
+  border-radius: 40px;
   box-shadow: 0 3px 6px #ccc;    
   -webkit-text-stroke-color: #ffffff;
   width: fit-content;
