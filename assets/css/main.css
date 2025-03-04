@@ -3,6 +3,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Madimi+One&family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&family=Jua&display=swap');
 
 
 html, body {
@@ -10085,6 +10086,7 @@ div[class^='bg-dark'] div[class^='bg-white'] .stroke-text, div[class^='bg-dark']
   box-shadow: 0 3px 6px #ccc;    
   -webkit-text-stroke-color: #ffffff;
   width: fit-content;
+  font-family: 'Jua';
 }
 .vers-li{
   background: var(--sort);
